@@ -2,14 +2,14 @@
 ## Peer-graded Assignment: Getting and Cleaning Data Course Project
 This repository is for the submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
-##Dataset
+**Dataset**
 A full description is available at the site where the data was obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 also data used is stored in *Data folder*
 
-##Files
+**Files**
 
 1. CodeBook.Rmd a code book that describes the variables, the data, and work performed to clean the data
 2. dataFetching.R in script folder for downloading the data
@@ -17,7 +17,7 @@ also data used is stored in *Data folder*
 4. tidy_dataset.txt which is the exported data after completing the process below.
 
 
-##process
+**process**
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
